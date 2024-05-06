@@ -41,8 +41,3 @@ This Streamlit application utilizes machine learning techniques to forecast stoc
 - TensorFlow
 - Plotly
 
-## Contributors
-
-- Abhigyan Kashyap
-- Bhavya Malhotra
-- Jayatri Banerjee
